@@ -1,1 +1,1 @@
-# sc_priject
+# sc_project
